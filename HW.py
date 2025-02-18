@@ -48,7 +48,7 @@ class Course:
 student1 = Student("Alice", "S12345", 3.8)
 student2 = Student("Bob", "S67890", 3.5)
 
-course = Course("Python Programming")
+course = Course("Computer Science")
 
 course.addStudent(student1)
 course.addStudent(student2)
